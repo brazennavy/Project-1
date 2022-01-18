@@ -4,7 +4,7 @@ Azure/cloud/ansible/docker
 
 The files in this repository were used to configure the network depicted below.
 
-https://ucb.bootcampcontent.com/CLennon/webserver_with_elk/-/blob/main/Network_Diagram.png
+https://github.com/brazennavy/Project-1/blob/main/Network%20Diagram.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
 
